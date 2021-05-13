@@ -20,3 +20,7 @@ Where the contracts are managed centrally in pact-broker once consumer publishes
 
 From here provider can pick up the files to verify the contract.
 
+### Status Dashboard on pact broker
+
+![Broker dashboard](./img/status-dashboard.png)
+![Broker dashboard details](./img/provider-details.png)
