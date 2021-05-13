@@ -2,7 +2,7 @@
 
 Reference setup for consumer driven contract tests based on [pact.io](https://pact.io/) framework. 
 
-Consumer tests are written in Javascript, provider verification tests are in JAVA. 
+Consumer tests are written in Javascript, provider verification tests are in JAVA which you can find [here](https://github.com/chit786/pact-provider-verifier-java/blob/main/src/test/java/com/example/demo/MovieSearchControllerTest.java)
 
 ## Workflow looks like following : 
 
